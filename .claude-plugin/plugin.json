@@ -2,5 +2,6 @@
   "name": "frac-sand-west-texas",
   "version": "0.1.0",
   "description": "Atardecer del oeste de Texas con logística de frac sand: más camiones y silos más llenos a medida que se llena la ventana de contexto",
+  "license": "MIT",
   "types": "./types/index.d.ts"
 }
