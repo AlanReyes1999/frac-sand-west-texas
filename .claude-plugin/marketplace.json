@@ -1,0 +1,5 @@
+{
+  "name": "frac-sand-west-texas",
+  "owner": { "name": "AlanReyes1999" },
+  "plugins": [{ "name": "frac-sand-west-texas", "source": "./" }]
+}
